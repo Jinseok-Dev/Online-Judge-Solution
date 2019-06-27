@@ -8,7 +8,6 @@ int tab[100];
 int main()
 {
 	int N, M, res = 0, end = 0;
-	int h[100] = { 0, };
 	cin >> N >> M;
 	for (int i = 0; i < N; i++)
 	{
